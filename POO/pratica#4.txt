@@ -1,0 +1,10 @@
+Exercício
+● Crie uma classe ContaBancaria considerando encapsulamento
+de dados. Ela deve armazenar: saldo, nome do titular e histórico
+de entradas e saídas.
+Implemente funcionalidades para:
+■ Consultar saldo
+■ Depositar um valor
+■ Sacar um valor (somente se houver saldo suficiente)
+■ Consultar histórico de entradas
+■ Consultar histórico de saídas

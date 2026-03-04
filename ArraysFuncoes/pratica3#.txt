@@ -1,0 +1,25 @@
+Tarefa. Criar um sistema de controle de itens utilizando arrays como forma
+de armazenamento.
+
+O usuário deve interagir através de um menu (incluir opção Sair), escolhendo a opção desejada.
+O sistema deve implementar as operações CRUD:
+Adicionar item: Inserir um novo item no array.
+Mostrar item(s): Exibir todos os itens
+Atualização item: Alterar o valor de um item existente
+Remover item: Excluir o primeiro ou o último item
+
+Lembre-se de:
+Modularizar o seu código
+Deixe-o mais legível e reutilizável implementando uma função para cada ação.
+Exemplo: Adicionar um item.
+function adicionarItem(arranjo, item) {
+arranjo.push.(item);
+}
+
+Validar as entradas
+Verifique se a operação solicitada pelo usuário pode ser executada.
+Exemplo: Alterar ou remover um item.
+			if (indice < 0 || indice >= itens.length) {
+				alert("Posição inválida!");
+			}
+

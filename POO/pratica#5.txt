@@ -1,0 +1,27 @@
+Exercício
+
+● Parte 1: Definição das Classes
+○ Criar classe Animal
+■ Atributos: nome e número de patas
+■ Métodos
+● emitirSom() → retorna “Som genérico”
+● Getters: atributo nome
+
+○ Criar classes Cachorro, Gato e Passaro
+■ Métodos: sobrescrever emitirSom() → retorna som de
+cada animal
+
+37
+
+Exercício
+
+● Parte 2: Menu Interativo
+○ Opções
+1. Cadastrar Cachorro
+2. Cadastrar Gato
+3. Cadastrar Pássaro
+4. Cadastrar outro Animal
+5. Listar todos os animais (mostrar nomes)
+6. Emitir sons de todos os animais (emitirSom())
+○ Cadastrar → Armazenar em um arranjo
+○ Listar/Emitir som → Percorrer o arranjo

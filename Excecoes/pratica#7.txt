@@ -1,0 +1,27 @@
+Personalizando Exceções
+
+53
+Tarefa. Criar uma classe de erro para disparar quando um valor for
+negativo e outra classe de erro para quando o valor não for numérico.
+Tarefas
+1. Crie duas classes de erro para os dois tipos de erro: valores inválidos e divisão por zero.
+2. Adapte o código abaixo para usar as novas classes de erro.
+Tarefas
+1. Crie duas classes de erro para os dois tipos de erro: valores inválidos e divisão por zero.
+2. Adapte o código abaixo para usar as novas classes de erro.
+Tarefas
+1. Crie duas classes de erro para os dois tipos de erro: valores inválidos e divisão por zero.
+2. Adapte o código abaixo para usar as novas classes de erro.
+
+Tarefa: Crie criando classes de erro, use throw e try-catch
+
+
+● Crie uma classe ContaBancaria considerando encapsulamento
+de dados. Ela deve armazenar: saldo, nome do titular e histórico
+de entradas e saídas.
+Implemente funcionalidades para:
+■ Consultar saldo
+■ Depositar um valor
+■ Sacar um valor (somente se houver saldo suficiente)
+■ Consultar histórico de entradas
+■ Consultar histórico de saídas

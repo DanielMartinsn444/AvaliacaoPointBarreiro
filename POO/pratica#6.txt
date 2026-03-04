@@ -1,0 +1,15 @@
+Tarefa 1: Composição
+
+● Crie uma classe Pessoa composta pelos atributos:
+○ nome
+○ cpf
+○ endereco (do tipo classe Endereco)
+● Crie uma classe Endereco com os seguintes atributos:
+○ logradouro
+○ numero
+○ bairro
+○ cidade
+○ estado
+○ cep
+
+Obs: Não consegui copiar aqui, mas o código do exercício de associação também está na pasta POO. 

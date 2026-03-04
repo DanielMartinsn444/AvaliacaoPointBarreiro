@@ -1,0 +1,24 @@
+Prática #1 - Comandos de Controle Condicional
+
+Faça um programa que receba dois números e mostre qual deles é o maior.
+
+Faça um programa que leia 2 notas de um aluno, verifique se as notas são válidas e exiba na tela a média destas notas. Uma nota válida deve ser, obrigatoriamente, um valor entre 0.0 e 10.0, onde caso a nota não possua um valor válido, este fato deve ser informado ao usuário e o programa termina.
+
+
+Leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for maior que 20% do salário imprima: Empréstimo não concedido, caso contrário imprima: Empréstimo concedido.
+
+Faça um programa que leia três números inteiros positivos. Caso pelo menos um dos valores seja igual a zero, informe que não é possível calcular a média. Caso contrário, mostre na tela o resultado da média harmônica:
+
+Faça um programa que receba a altura e o gênero de uma pessoa (masculino ou feminino) e calcule e mostre seu peso ideal, utilizando as seguintes fórmulas:
+Homens: (72,7*altura)-58
+Mulheres: (62,1*altura)-44,7
+
+Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
+Ter pelo menos 65 anos;
+Ou ter trabalhado pelo menos 30 anos;
+Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
+
+Um produto vai sofrer aumento de acordo com a tabela abaixo. Leia o preço antigo, calcule e escreva o preço novo, e escreva uma mensagem em função do preço novo (de acordo com a segunda tabela).
+
+
+Determine se um determinado ano lido é bissexto. Sendo que um ano é bissexto se for divisível por 400 ou se for divisível por 4 e não for divisível por 100.LINK

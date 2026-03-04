@@ -1,0 +1,16 @@
+Prática #2 - Estruturas de Repetição
+
+Leia 10 números e mostre qual é o menor e o maior valor informado pelo usuário.
+
+Leia um valor positivo n e gere a seguinte sequência textual: 1 + 2 + 3 + ... + n
+Exemplo: se o usuário informar n = 4, a saída deve ser: 1 + 2 + 3 + 4
+
+Leia um número n e mostre o resultado da soma dos quadrados de 1 a n.
+Exemplo: se o usuário informar n = 4, a saída deve ser (12+22+32+42): 30 
+
+Leia um valor n e mostre o valor de n!. Lembre-se que 0! = 1.
+Exemplo: se o usuário informar n = 4, a saída deve ser (4*3*2*1): 24
+
+Em matemática, o número harmônico H(n) é definido como:
+	H(n) = 1 + 1/2 + 1/3 + ... + 1/n
+Leia um valor positivo n e apresente o valor de H(n).
