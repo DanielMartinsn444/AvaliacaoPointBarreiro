@@ -1,7 +1,3 @@
-/**
- * um programa que recebe 2 notas de um aluno, verifica se as notas são válidas e exibe na tela a média destas notas. 
- * 
- */
 
 const mediaChecker = () => {
     const n1 = parseFloat(prompt("Digite a primeira nota: "));

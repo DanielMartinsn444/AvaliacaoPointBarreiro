@@ -1,11 +1,3 @@
-/**
- * Um programa que receba dois números e mostra qual deles é o maior.
-
- * @param {number} x - O primeiro número.
- * @param {number} y - O segundo número.
- * @returns {Majornumber} Devolve o maior resultado.
- * @returns {Minornumber} Devolve o menor resultado.
- */
 
 const checkNumberValue = (x, y) => {
     const values = [];

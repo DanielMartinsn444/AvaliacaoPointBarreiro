@@ -1,7 +1,4 @@
-/**
- Recebe salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for maior que 20% do salário imprime: Empréstimo não concedido, caso contrário imprime: Empréstimo concedido.
 
- */
 
 const emprestimoChecker = () => {
     const salario = Number(prompt(`
