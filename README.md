@@ -1,6 +1,6 @@
 # Atividades Avaliativas - CEPEDI
 
-Resolução das atividades avaliativas da Prática **#1 até Prática #12**.
+**Resolução das atividades avaliativas da Prática #1 até Prática #12**.
 
 ## 📂 Estrutura de Pastas
 
